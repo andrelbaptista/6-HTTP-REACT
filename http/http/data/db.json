@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "name": "capa-de-chuva",
+      "price": "50,50",
+      "id": "5"
+    },
+    {
+      "name": "teclado",
+      "price": "110,00",
+      "id": "6"
+    },
+    {
+      "name": "cadeira",
+      "price": "200,00",
+      "id": "7"
+    },
+    {
+      "id": "3606",
+      "name": "tênis",
+      "price": "400,00"
+    },
+    {
+      "id": "ba32",
+      "name": "Calça",
+      "price": "100,00"
+    },
+    {
+      "id": "279d",
+      "name": "Bermuda",
+      "price": "50,00"
+    },
+    {
+      "id": "cabd",
+      "name": "meia",
+      "price": "10,00"
+    },
+    {
+      "id": "4597",
+      "name": "gravata",
+      "price": "10,00"
+    },
+    {
+      "id": "abdb",
+      "name": "Cueca",
+      "price": "5,00"
+    }
+  ]
+}
